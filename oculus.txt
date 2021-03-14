@@ -1,6 +1,7 @@
 0.0.0.0 oculus.com
 0.0.0.0 oculuscdn.com 
 0.0.0.0 facebook-hardware.com 
+0.0.0.0 graph.oculus.com
 0.0.0.0 facebook.net 
 0.0.0.0 facebook.com 
 0.0.0.0 fbcdn.com 
@@ -10,3 +11,9 @@
 0.0.0.0 fb.com 
 0.0.0.0 graph.facebook.com
 0.0.0.0 crashlytics.com
+0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 scontent-frt3-1.xx.fbcdn.net
+0.0.0.0 rupload.facebook.com
+0.0.0.0 graph.oculus.com
+0.0.0.0 graph.oculus.com.lan
+0.0.0.0 mqtt-mini.facebook.com
